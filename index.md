@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[https://www.starzbiography.com](./https://www.starzbiography.com).
+[https://www.starzbiography.com](/https://www.starzbiography.com).
 
 There should be whitespace between paragraphs.
 
