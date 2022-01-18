@@ -4,9 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[https://www.starzbiography.com](/https://www.starzbiography.com).
+[https://www.starzbiography.com](https://www.starzbiography.com).
 
 There should be whitespace between paragraphs.
+[Link text Here](https://link-url-here.org)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
